@@ -5,7 +5,7 @@ kyuditsky@gmail.com
 
 ## Documentation  
 
-**[Catpaw Wiki](https://github.com/kyuditsky/catpaw/wiki)** Rev01 in development
+**[Catpaw Wiki](https://github.com/kyuditsky/catpaw/wiki)** (in development)
 
 **[Powerhat](https://github.com/kyuditsky/rpi_hat/)** Rev02 (feb26)
 
